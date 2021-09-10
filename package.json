@@ -1,0 +1,14 @@
+{
+  "name": "03-base",
+  "version": "0.0.1",
+  "description": "una simple tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kike",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.1.1"
+  }
+}
